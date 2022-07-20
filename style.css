@@ -1,0 +1,16 @@
+h1{
+    color: #000;
+    background-color: brown;
+    display: block;
+}
+.d{
+    margin-right: 80%;
+    
+    background-color: #000;
+}
+pre{
+    padding: 10%;
+    text-align: center;
+    color: aqua;
+    display: inline;
+}
